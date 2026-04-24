@@ -1,7 +1,6 @@
 # Opposing Responses of Rhodobacteraceae to Two Marine Environmental Shocks
 
-Causal Inference (Spring 2026) final project.
-Authors: Yirong Xu, Haofei Xu — Washington University in St. Louis.
+**Authors:** Yirong Xu, Haofei Xu (Washington University in St. Louis)
 
 ## Overview
 
